@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 
+
 //Function to calculate the checksum of a string
 int CalculateChecksum(const std::string& str){
   int checksum = 0;
